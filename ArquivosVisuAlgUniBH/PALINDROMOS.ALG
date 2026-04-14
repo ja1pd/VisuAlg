@@ -13,7 +13,7 @@ i,j,k,l,total : inteiro
 
 
 Inicio
-
+// o jeito que eu resolvi :)
 num1 <- 9
 
 enquanto num1 >= 0 faca
